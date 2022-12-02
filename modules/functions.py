@@ -1,5 +1,4 @@
-FILEPATH = "todos_item.txt"
-
+FILEPATH = "../todos.txt"
 def get_todos(filepath = "todos.txt"):
     """
     Help file define...

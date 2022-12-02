@@ -16,3 +16,4 @@ window = sg.Window("File Compressor",
                    [compress_button]])
 
 window.read()
+window.close()
